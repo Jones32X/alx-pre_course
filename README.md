@@ -1,1 +1,1 @@
-My second readme fot 0.x01.git 
+Manually updated by me on MY LOCAL REPOSITORY
